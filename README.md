@@ -38,5 +38,3 @@ You will need VirtualBox software to be able to view the virtual machine.
 
 - Rigor
 - Network & system administration
-
-### [Go back](https://github.com/Neress-dono/common-core_42)
