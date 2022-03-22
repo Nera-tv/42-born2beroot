@@ -27,7 +27,7 @@ You will need VirtualBox software to be able to view the virtual machine.
 ### Instructions
 
 - Download the file from the link below : <br/>
-- <a href="https://drive.google.com/drive/folders/1QAEtwN65lQlNoX5l71wLPojXbQzjUMmO?usp=sharing">Born2beroot link</a>
+- <a href="https://drive.google.com/drive/folders/1K4hP1Cs1q2t8YywCzAp9PZYcy-OVNysm?usp=sharing">Born2beroot link</a>
 - Unzip the file,
 - Open VirualBox software,
 - Click on Import,
