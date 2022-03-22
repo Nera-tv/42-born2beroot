@@ -46,7 +46,7 @@ password: Az5U3jK8f6
 password: x2m42Fb4FM
 
 To add a new user, use: sudo adduser <username>
-Do not forget to integrate it into the "sudo" group with the command: usermod -a -G <group> <username>
+Do not forget to integrate it into the "sudo" group with the command: usermod -a -G < group > < username >
    
 ### Password Policy
    
